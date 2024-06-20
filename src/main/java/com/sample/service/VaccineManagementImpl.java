@@ -65,11 +65,6 @@ public class VaccineManagementImpl implements IVaccineManagement {
 	public Date getSystemDateAndTime() {
 		
 		return repo.getTheSystemDateAndTime();
-	}
-
-
-
-
-	
+	}	
 	
 }
